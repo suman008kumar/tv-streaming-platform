@@ -22,6 +22,7 @@ public class ChannelController {
         channels.addAll(ChannelDataProvider1.getChannels());
         channels.addAll(ChannelDataProvider2.getChannels());
         channels.addAll(ChannelDataProvider3.getChannels());
+        channels.addAll(ChannelDataProvider4.getChannels());
         return channels;
     }
 }

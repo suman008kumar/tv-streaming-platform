@@ -12,808 +12,2031 @@ public class ChannelDataProvider2 {
 
         // ✅ PART 2 DATA
 
-            channels.add(new Channel(741L, "https://i.imgur.com/fBpLsbC.png", "Bahrain Sports 1 (720p)", "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"));
-            channels.add(new Channel(742L, "https://i.imgur.com/ZkuZmIo.png", "Bahrain Sports 2 (720p)", "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"));
-            channels.add(new Channel(743L, "https://i.postimg.cc/rw57LMpY/bahraintv.png", "Bahrain TV (720p)", "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8"));
-            channels.add(new Channel(744L, "https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png", "Bahry (1080p)", "https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8"));
-            channels.add(new Channel(745L, "https://i.imgur.com/a64hwzq.png", "Bailén TV (720p)", "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8"));
-            channels.add(new Channel(746L, "https://i.imgur.com/cyReGWh.png", "Bajai TV (720p)", "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"));
-            channels.add(new Channel(747L, "https://i.imgur.com/I2wRq88.png", "Bajo Techo TV (1080p)", "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8"));
-            channels.add(new Channel(748L, "https://i.imgur.com/r4FzxSg.png", "Baku TV (720p)", "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8"));
-            channels.add(new Channel(749L, "https://i.imgur.com/2o5T0gi.png", "Balapan TV", "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"));
-            channels.add(new Channel(750L, "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png", "Balaton TV (432p)", "https://stream.iptvservice.eu/hls/balatontv.m3u8"));
-            channels.add(new Channel(751L, "https://i.postimg.cc/mDgnM9y0/balchitv.png", "Balchi TV (720p)", "https://livertmptwo.com:19360/balchirelaytv/balchirelaytv.m3u8"));
-            channels.add(new Channel(752L, "https://i.imgur.com/uH1Szme.png", "Bali TV (576p)", "http://103.180.118.5:9981/stream/channelid/916002722"));
-            channels.add(new Channel(753L, "https://i.imgur.com/P3whqna.png", "Balikpapan TV (720p)", "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8"));
-            channels.add(new Channel(754L, "https://i.imgur.com/UDyxgXf.png", "Balkan Radio Salzburg (480p)", "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"));
-
-// 🇮🇳 INDIAN CHANNEL
-            channels.add(new Channel(755L, "https://i.imgur.com/oxkkWH5.png", "Balle Balle (720p)", "https://mcncdndigital.com/balleballetv/index.m3u8"));
-
-            channels.add(new Channel(756L, "https://i.imgur.com/S1vEqZp.png", "Bălţi TV (1080p)", "http://77.89.199.174:8000/play/1024/index.m3u8"));
-            channels.add(new Channel(757L, "https://i.imgur.com/zdRvy87.png", "BamBarBia TV (720p)", "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"));
-            channels.add(new Channel(758L, "https://i.imgur.com/ntK4D64.png", "BAMOS TV (1080p)", "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"));
-            channels.add(new Channel(759L, "https://i.imgur.com/yVsocid.png", "Banat TV (720p)", "https://www.btv.ro/hls/banat-tv.m3u8"));
-            channels.add(new Channel(760L, "https://i.postimg.cc/D0WYpKD6/bandungtv.png", "Bandung TV (360p)", "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8"));
-            channels.add(new Channel(761L, "https://i.postimg.cc/WpKyFhFH/bangbang.png", "Bang Bang (480p)", "https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8"));
-            channels.add(new Channel(762L, null, "Bang Bang TV", "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8"));
-            channels.add(new Channel(763L, null, "Banijay Mr Bean Animé", "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"));
-            channels.add(new Channel(764L, null, "Banijay Mr Bean Classic", "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"));
-            channels.add(new Channel(765L, "https://i.imgur.com/TA76a10.png", "Banjar TV (720p)", "https://banjartv.siar.us/banjartv/live/playlist.m3u8"));
-            channels.add(new Channel(766L, "https://i.imgur.com/pKCvuDc.png", "Banning CityTV (1080p)", "https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8"));
-            channels.add(new Channel(767L, "https://i.imgur.com/tbtF40p.png", "Banten TV (720p)", "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8"));
-            channels.add(new Channel(768L, "https://i.imgur.com/snMxng5.png", "Banyumas TV (720p)", "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8"));
-            channels.add(new Channel(769L, "https://i.imgur.com/WFgWGPb.png", "Bar Rescue", "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ee6c0fc88000877d26c/master.m3u8"));
-            channels.add(new Channel(770L, "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/283px-TV_Baran.svg.png", "Baran", "https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8"));
-            channels.add(new Channel(771L, "https://i.imgur.com/TZ1unwF.png", "Baraza TV (1080p)", "https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8"));
-            channels.add(new Channel(772L, "https://i.imgur.com/jbbxu0g.png", "Barbud Music (720p)", "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8"));
-            channels.add(new Channel(773L, "https://i.postimg.cc/7Z1tW9BF/barcatv.png", "Barca TV", "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8"));
-            channels.add(new Channel(774L, null, "Barney and Friends", "https://cinedigm-barney-xumo.amagi.tv/playlist.m3u8"));
-            channels.add(new Channel(775L, "https://i.imgur.com/lo7YXnW.png", "Batam TV (480p)", "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8"));
-            channels.add(new Channel(776L, "https://i.imgur.com/uVmHT97.png", "Baynounah TV (1080p)", "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8"));
-            channels.add(new Channel(777L, "https://i.imgur.com/Gry2KEN.jpg", "Bayon TV (720p)", "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8"));
-            channels.add(new Channel(778L, "https://blogger.googleusercontent.com/img/.../bayres-tv.png", "Bayres TV (720p)", "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"));
-            channels.add(new Channel(779L, null, "Baywatch", "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819e62b228b70008570e9f/master.m3u8"));
-            channels.add(new Channel(780L, "https://i.imgur.com/PVQKsjE.png", "Bayyinat TV (404p)", "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"));
-            channels.add(new Channel(781L, "https://i.imgur.com/36KDxLg.png", "BBC Alba (1080p)", "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd"));
-            channels.add(new Channel(782L, "https://i.imgur.com/pTiiPz0.png", "BBC America", "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8"));
-            channels.add(new Channel(783L, "https://i.imgur.com/ScyTG6P.png", "BBC Arabic (720p)", "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"));
-            channels.add(new Channel(784L, null, "BBC Doctor Who Italy (1080p)", "https://amg00793-amg00793c17-rakuten-it-5361.playouts.now.amagi.tv/playlist.m3u8"));
-            channels.add(new Channel(785L, "https://i.postimg.cc/dtGKJ8HB/bbcdrama.png", "BBC Drama", "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8"));
-            channels.add(new Channel(786L, null, "BBC Drama Italy (1080p)", "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8"));
-            channels.add(new Channel(787L, "https://i.imgur.com/nGSsUd4.png", "BBC Earth Vietnam (1080p)", "https://tv.ddns.vn/tv/bbcearth/index.m3u8"));
-            channels.add(new Channel(788L, "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png", "BBC Four UK HD", "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"));
-            channels.add(new Channel(789L, null, "BBC Impossible", "https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8"));
-            channels.add(new Channel(790L, "https://i.imgur.com/9mzJJ3y.png", "BBC Lifestyle Asia (1080p)", "https://tv.ddns.vn/tv/bbclifestyle/index.m3u8"));
-            channels.add(new Channel(791L, "https://i.imgur.com/vSz2WEp.png", "BBC News Asia Pacific (1080p)", "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"));
-            channels.add(new Channel(792L, "https://i.imgur.com/vSz2WEp.png", "BBC News Europe", "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"));
-            channels.add(new Channel(793L, "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", "BBC One (720p)", "https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8"));
-
-        channels.add(new Channel(794L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One East (1080p)",
-                "https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8"
-        ));
-
-        channels.add(new Channel(795L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One East (720p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd"
-        ));
-
-        channels.add(new Channel(796L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One East Midlands (720p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd"
-        ));
-
-        channels.add(new Channel(797L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One East Midlands (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd"
-        ));
-
-        channels.add(new Channel(798L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One East Yorkshire (540p) [Geo-blocked]",
-                "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.m3u8"
-        ));
-
-        channels.add(new Channel(799L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One North East (720p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd"
-        ));
-
-        channels.add(new Channel(800L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One North East (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd"
-        ));
-
-        channels.add(new Channel(801L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One North West (720p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd"
+        channels.add(new Channel(
+                83L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+                "3sat HD 🇩🇪",
+                "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8"
         ));
 
-        channels.add(new Channel(802L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One North West (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                84L,
+                "https://i.imgur.com/qQ33TVM.png",
+                "ABC Australia 🇦🇺",
+                "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
         ));
 
-        channels.add(new Channel(803L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One Northern Ireland HD (720p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd"
+        channels.add(new Channel(
+                85L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 🇺🇸",
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
         ));
 
-        channels.add(new Channel(804L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One Northern Ireland HD (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                86L,
+                "https://i.imgur.com/slSUDNX.png",
+                "1-2-3 TV 🇺🇸",
+                "https://123tv-mx1.flex-cdn.net/index.m3u8"
         ));
 
-        channels.add(new Channel(805L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One Scotland (540p) [Geo-blocked]",
-                "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8"
+        channels.add(new Channel(
+                87L,
+                "https://i.imgur.com/XfkbTrU.png",
+                "1Almere TV 🇳🇱",
+                "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8"
         ));
 
-        channels.add(new Channel(806L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One Scotland HD (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                88L,
+                "https://i.postimg.cc/cCPc5tyk/1kzntv.png",
+                "1KZN TV 🇿🇦",
+                "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(807L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One South (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                89L,
+                "https://i.imgur.com/FSkYLPK.png",
+                "1TV Georgia 🇬🇪",
+                "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
         ));
 
-        channels.add(new Channel(808L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One South East (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                90L,
+                "https://i.imgur.com/ftiuNK3.png",
+                "1Twente TV 🇳🇱",
+                "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
         ));
 
-        channels.add(new Channel(809L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One South West (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                91L,
+                "https://i.ibb.co/jwM8DFG/2GB-1.png",
+                "2GB Sydney 🇦🇺",
+                "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
         ));
 
-        channels.add(new Channel(810L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One South West HD (720p)",
-                "https://stream.nexyl.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8"
+        channels.add(new Channel(
+                92L,
+                "https://i.imgur.com/FJBL6zI.png",
+                "2TV Georgia 🇬🇪",
+                "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
         ));
 
-        channels.add(new Channel(811L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One Wales (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                93L,
+                "https://i.imgur.com/U99CsEc.png",
+                "3ABN Canada 🇨🇦",
+                "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
         ));
 
-        channels.add(new Channel(812L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One West (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                94L,
+                "https://i.imgur.com/oNUpXA9.png",
+                "3ABN Dare To Dream 🇺🇸",
+                "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(813L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One West Midlands (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                95L,
+                "https://i.imgur.com/bgJQIyW.png",
+                "3ABN English 🇺🇸",
+                "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(814L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-                "BBC One Yorkshire & Lincolnshire (1080p)",
-                "http://92.114.85.72:8000/play/a0mp"
+        channels.add(new Channel(
+                96L,
+                "https://i.imgur.com/B5gsM7m.png",
+                "3ABN French 🇫🇷",
+                "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8"
         ));
-        channels.add(new Channel(815L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png",
-                "BBC Parliament (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd"
+
+        channels.add(new Channel(
+                97L,
+                "https://i.imgur.com/IecOZHR.png",
+                "3ABN International 🇺🇸",
+                "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                98L,
+                "https://i.imgur.com/z3npqO1.png",
+                "3ABN Kids 🇺🇸",
+                "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                99L,
+                "https://i.imgur.com/Ugb4AFo.png",
+                "3ABN Latino 🇲🇽",
+                "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                100L,
+                "https://i.imgur.com/iBcqT8L.png",
+                "3ABN Praise Him Music 🇺🇸",
+                "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                101L,
+                "https://i.imgur.com/zUMUNhe.png",
+                "3ABN Proclaim 🇺🇸",
+                "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                102L,
+                "https://i.imgur.com/Z4MdB0S.png",
+                "3AW Melbourne 🇦🇺",
+                "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                103L,
+                "https://i.imgur.com/YRiulCU.png",
+                "3HD 🇦🇪",
+                "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8"
+        ));
+
+        channels.add(new Channel(
+                104L,
+                "https://i.imgur.com/im3g7T2.png",
+                "3 Stones TV 🇺🇬",
+                "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                105L,
+                "https://i.postimg.cc/Pr634RNN/4-Afghanistan.png",
+                "4 Afghanistan 🇦🇫",
+                "https://4afghls.persiana.live/hls/stream.m3u8"
+        ));
+
+        channels.add(new Channel(
+                106L,
+                "https://i.ibb.co/1fb5BtN/unnamed.png",
+                "4DmásNoticias TV 🇵🇾",
+                "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                107L,
+                "https://i.imgur.com/Na0UCV7.png",
+                "4E 🇬🇷",
+                "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                108L,
+                "https://i.imgur.com/2JO5Y8c.png",
+                "4 Fun Kids 🇵🇱",
+                "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                109L,
+                "https://i.imgur.com/rI1wo2l.png",
+                "4 Fun TV 🇵🇱",
+                "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                110L,
+                "",
+                "4K Travel TV 🇺🇸",
+                "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                111L,
+                "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+                "4 Kurd 🇮🇷",
+                "https://4kuhls.persiana.live/hls/stream.m3u8"
+        ));
+
+        channels.add(new Channel(
+                112L,
+                "https://i.imgur.com/DSAaC2b.png",
+                "4TV News 🇵🇰",
+                "https://cdn-4.pishow.tv/live/1007/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                113L,
+                "https://i.imgur.com/PexhKwp.png",
+                "4U TV 🇺🇬",
+                "https://hls.4utv.live/hls/stream.m3u8"
+        ));
+
+        channels.add(new Channel(
+                114L,
+                "",
+                "5-Minute Craft 🇺🇸",
+                "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                115L,
+                "https://i.imgur.com/jrGrfof.png",
+                "5AAB TV 🇵🇰",
+                "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                116L,
+                "https://i.imgur.com/mSn7ACs.png",
+                "5TV Corrientes 🇦🇷",
+                "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                117L,
+                "https://i.imgur.com/KPXMa3U.png",
+                "5 Kanal 🇷🇺",
+                "https://streaming.televizor-24-tochka.ru/live/8.m3u8"
+        ));
+
+        channels.add(new Channel(
+                118L,
+                "https://i.imgur.com/Q9iCxg1.png",
+                "6PR Perth 🇦🇺",
+                "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                119L,
+                "https://i.imgur.com/2nd5Cox.png",
+                "6ter 🇫🇷",
+                "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8"
+        ));
+
+        channels.add(new Channel(
+                120L,
+                "https://i.imgur.com/l3EcRnZ.png",
+                "6 TV Telugu 🇮🇳",
+                "https://cdn-1.pishow.tv/live/232/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                121L,
+                "https://jrlist70.pages.dev/list/wise.png",
+                "6 Wise TV 🇹🇭",
+                "https://live.enhdtv.com:8081/8150/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                122L,
+                "https://radio7note.com/img/favicon/android-icon-192x192.png",
+                "7 RadioVisione 🇮🇹",
+                "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                123L,
+                "https://i.imgur.com/zDiIhdN.png",
+                "7S Music 🇮🇳",
+                "https://fucking-tv-ott.keralive.workers.dev/mumt03/7SMUSIC/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                124L,
+                "https://i.imgur.com/rF3tpbR.jpeg",
+                "7 Storia 🇮🇹",
+                "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                125L,
+                "https://i.imgur.com/ILfXDRs.png",
+                "7 TeleValencia 🇪🇸",
+                "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                126L,
+                "https://i.imgur.com/Rte2K3x.png",
+                "7 YOU & ME 🇮🇹",
+                "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                127L,
+                "https://i.imgur.com/BTJvvBK.png",
+                "8 La Marina TV 🇪🇸",
+                "https://streaming005.gestec-video.com/hls/canal24.m3u8"
+        ));
+
+        channels.add(new Channel(
+                128L,
+                "https://i.imgur.com/7ecgGIG.png",
+                "8NTV 🇪🇸",
+                "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                129L,
+                "",
+                "8 Out of 10 Cats 🇬🇧",
+                "https://amg00627-amg00627c37-samsung-au-4294.playouts.now.amagi.tv/playlist/amg00627-banijayfast-8outof10cats-samsungau/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                130L,
+                "https://i.imgur.com/Jkx9W88.png",
+                "8TV 🇲🇾",
+                "http://cdn6.163189.xyz/163189/8tv"
+        ));
+
+        channels.add(new Channel(
+                131L,
+                "https://i.imgur.com/KLrfKRn.png",
+                "8XM 🇧🇪",
+                "http://66.102.120.18:8000/play/a050/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                132L,
+                "https://i.imgur.com/cwLzqaw.png",
+                "9Gem 🇦🇺",
+                "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                133L,
+                "https://i.imgur.com/RLijQI8.png",
+                "9Go! 🇦🇺",
+                "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                134L,
+                "https://i.imgur.com/HlJOrGI.png",
+                "9Life 🇦🇺",
+                "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                135L,
+                "https://i.imgur.com/WQP3el2.png",
+                "9 la Loma TV 🇪🇸",
+                "https://9laloma.tv/live.m3u8"
+        ));
+
+        channels.add(new Channel(
+                136L,
+                "https://i.imgur.com/y78saaG.png",
+                "10 Bold Adelaide 🇦🇺",
+                "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                137L,
+                "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
+                "10 TV 🇬🇪",
+                "https://cdn-1.pishow.tv/live/391/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                138L,
+                "https://i.imgur.com/y78saaG.png",
+                "11 Kanal 🇺🇦",
+                "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                139L,
+                "https://i.imgur.com/VSTgXsh.png",
+                "12TV 🇧🇬",
+                "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+        ));
+
+        channels.add(new Channel(
+                140L,
+                "https://i.imgur.com/mBYxWOg.png",
+                "12 TV Parma 🇮🇹",
+                "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                141L,
+                "https://i.imgur.com/OA9hm6e.png",
+                "12 Kanal 🇷🇺",
+                "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                142L,
+                "https://i.imgur.com/Zfe2f5j.png",
+                "13C 🇺🇸",
+                "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                143L,
+                "https://i.imgur.com/utI1tJV.png",
+                "13 Entretención 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                144L,
+                "https://i.imgur.com/Ymk6j5o.png",
+                "13 Festival 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                145L,
+                "https://i.imgur.com/KvMuTzN.png",
+                "13 Humor 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                146L,
+                "https://i.imgur.com/8WJUbSD.png",
+                "13 Kids 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                147L,
+                "https://i.imgur.com/QvF4l2t.png",
+                "13Max Televisión 🇨🇱",
+                "http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                148L,
+                "https://i.imgur.com/R6D228s.png",
+                "13 Prime 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                149L,
+                "https://i.imgur.com/m0SuwMU.png",
+                "13 Realities 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                150L,
+                "https://i.imgur.com/FvEp1S2.png",
+                "13 Siam Thai 🇹🇭",
+                "https://live.x2.co.th/live/13livetv-th.m3u8"
+        ));
+
+        channels.add(new Channel(
+                151L,
+                "https://i.imgur.com/csBNi2L.png",
+                "13 Teleseries 🇨🇱",
+                "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                152L,
+                "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/15p.png",
+                "15+ Music 🇷🇺",
+                "https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                153L,
+                "https://i.imgur.com/CZ8LKmA.png",
+                "15TV 🇮🇹",
+                "https://cdn.fastocloud.com/leonel.m3u8"
+        ));
+
+        channels.add(new Channel(
+                154L,
+                "https://i.imgur.com/Y2pEs8H.png",
+                "16 Anni e Incinta 🇮🇹",
+                "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                155L,
+                "https://i.imgur.com/04fCzHl.png",
+                "16TV Budapest 🇭🇺",
+                "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                156L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png",
+                "20 Mediaset 🇮🇹",
+                "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                157L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
+                "20 Minutes TV 🇫🇷",
+                "https://live-20minutestv.digiteka.com/1961167769/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                158L,
+                "",
+                "21 Jump Street 🇺🇸",
+                "https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                159L,
+                "https://i.imgur.com/CMANZWk.png",
+                "23 ABC Bakersfield 🇺🇸",
+                "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8"
+        ));
+
+        channels.add(new Channel(
+                160L,
+                "https://i.imgur.com/4hDCB1M.png",
+                "24/7 Canal de Noticias 🇲🇽",
+                "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+        ));
+
+        channels.add(new Channel(
+                161L,
+                "https://i.imgur.com/IUVRm5L.png",
+                "24 Horas 🇪🇸",
+                "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8"
+        ));
+
+        channels.add(new Channel(
+                162L,
+                "https://i.imgur.com/iSVnzR1.png",
+                "24 Hour Free Movies 🇺🇸",
+                "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
+        ));
+
+        channels.add(new Channel(
+                163L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png",
+                "24Kitchen 🇷🇸",
+                "http://91.132.74.5:8000/play/a00a"
+        ));
+
+        channels.add(new Channel(
+                164L,
+                "https://24.kz/templates/khabar24/img/logo-new.png",
+                "24KZ 🇰🇿",
+                "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                165L,
+                "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
+                "24 News HD 🇵🇰",
+                "http://66.102.120.18:8000/play/a04v/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                166L,
+                "https://i.imgur.com/8FO41es.png",
+                "24 TV 🇹🇷",
+                "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                167L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+                "24 Kanal 🇺🇦",
+                "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                168L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png",
+                "27 TwentySeven 🇮🇹",
+                "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                169L,
+                "https://i.imgur.com/DyvK28q.png",
+                "28 Kanala 🇪🇸",
+                "https://streaming.28kanala.eus/hls/z.m3u8"
+        ));
+
+        channels.add(new Channel(
+                170L,
+                "https://i.imgur.com/Q4l2uao.png",
+                "30A Darcizzle Offshore 🇺🇸",
+                "https://30a-tv.com/darcizzle.m3u8"
+        ));
+
+        channels.add(new Channel(
+                171L,
+                "https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg",
+                "30A Georgia Hollywood Review 🇺🇸",
+                "https://30a-tv.com/gh.m3u8"
+        ));
+
+        channels.add(new Channel(
+                172L,
+                "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+                "30A Golf Kingdom 🇺🇸",
+                "https://30a-tv.com/feeds/vidaa/golf.m3u8"
+        ));
+
+        channels.add(new Channel(
+                173L,
+                "https://i.imgur.com/CKCtZo7.png",
+                "30A Investment Pitch 🇺🇸",
+                "https://30a-tv.com/feeds/xodglobal/30atv.m3u8"
+        ));
+
+        channels.add(new Channel(
+                174L,
+                "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+                "30A Lionel Nation 🇺🇸",
+                "https://30a-tv.com/ln.m3u8"
+        ));
+
+        channels.add(new Channel(
+                175L,
+                "https://i.imgur.com/gNWg9tl.png",
+                "30A Music 🇺🇸",
+                "https://30a-tv.com/music.m3u8"
+        ));
+
+        channels.add(new Channel(
+                176L,
+                "https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+                "30A Ridiculous TV 🇺🇸",
+                "https://30a-tv.com/feeds/720p/63.m3u8"
+        ));
+
+        channels.add(new Channel(
+                177L,
+                "https://i.imgur.com/HSdwqZN.png",
+                "30A Sidewalks 🇺🇸",
+                "https://30a-tv.com/sidewalks.m3u8"
+        ));
+
+        channels.add(new Channel(
+                178L,
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
+                "30A Television Channel 🇺🇸",
+                "https://30a-tv.com/feeds/masters/30atv.m3u8"
+        ));
+
+        channels.add(new Channel(
+                179L,
+                "https://i.imgur.com/0j5Aget.png",
+                "30A The Beach Show 🇺🇸",
+                "https://30a-tv.com/beachy.m3u8"
+        ));
+
+        channels.add(new Channel(
+                180L,
+                "https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",
+                "30A TV Classic Movies 🇺🇸",
+                "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+        ));
+
+        channels.add(new Channel(
+                181L,
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU",
+                "30A We Love Cars 🇺🇸",
+                "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+        ));
+
+        channels.add(new Channel(
+                182L,
+                "https://i.imgur.com/5Bp9ljw.png",
+                "31 Kanal 🇰🇿",
+                "https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                183L,
+                "https://i.imgur.com/SjUnQlg.png",
+                "45 TV 🇬🇹",
+                "https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8"
+        ));
+
+        channels.add(new Channel(
+                184L,
+                "https://i.imgur.com/Q7THHhX.png",
+                "48 Hours 🇺🇸",
+                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e925bc68d18a00077bb990/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                185L,
+                "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+                "51 Radio TV 🇮🇹",
+                "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                186L,
+                "https://i.imgur.com/y4kNV3Q.png",
+                "70-80 TV 🇮🇹",
+                "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                187L,
+                "https://i.imgur.com/mgXeEE4.png",
+                "70s Cinema 🇺🇸",
+                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                188L,
+                "https://i.imgur.com/nkEeYfI.png",
+                "80s Rewind 🇺🇸",
+                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                189L,
+                "https://i.imgur.com/i3YwORV.png",
+                "88 Stereo 🇺🇸",
+                "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                190L,
+                "",
+                "90's Kids 🇺🇸",
+                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                191L,
+                "https://i.imgur.com/KoGko6M.png",
+                "90s Throwback 🇺🇸",
+                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                192L,
+                "https://i.imgur.com/gp1Ao4s.jpeg",
+                "92 News HD 🇵🇰",
+                "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                193L,
+                "https://i.imgur.com/nAldca2.png",
+                "92 News UK 🇬🇧",
+                "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                194L,
+                "https://i.imgur.com/GY750xh.jpg",
+                "98.1 Pearl FM 🇺🇸",
+                "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+        ));
+
+        channels.add(new Channel(
+                195L,
+                "https://i.imgur.com/dZA4gel.png",
+                "99TV 🇮🇳",
+                "https://cdn-1.pishow.tv/live/1211/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                196L,
+                "https://i.imgur.com/SZtJfOG.png",
+                "100% Auto Moto TV 🇫🇷",
+                "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                197L,
+                "",
+                "100% Docs 🇫🇷",
+                "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                198L,
+                "https://i.imgur.com/bSXKdK5.png",
+                "100% News 🇷🇺",
+                "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
+        ));
+
+        channels.add(new Channel(
+                199L,
+                "https://i.imgur.com/GzI3RC4.png",
+                "101TV Antequera 🇪🇸",
+                "https://www.streaming101tv.es:19360/antequera/antequera.m3u8"
+        ));
+
+        channels.add(new Channel(
+                200L,
+                "https://i.imgur.com/GzI3RC4.png",
+                "101TV Axarquia 🇪🇸",
+                "https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8"
+        ));
+
+        channels.add(new Channel(
+                201L,
+                "https://i.imgur.com/GzI3RC4.png",
+                "101TV Cádiz 🇪🇸",
+                "https://streaming101tv.es:19360/cadiz/cadiz.m3u8"
+        ));
+
+        channels.add(new Channel(
+                202L,
+                "https://i.imgur.com/GzI3RC4.png",
+                "101TV Malaga 🇪🇸",
+                "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                203L,
+                "https://i.imgur.com/GzI3RC4.png",
+                "101TV Ronda 🇪🇸",
+                "https://streaming101tv.es/hls/webronda.m3u8"
+        ));
+
+        channels.add(new Channel(
+                204L,
+                "https://i.imgur.com/GzI3RC4.png",
+                "101TV Sevilla 🇪🇸",
+                "https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                205L,
+                "https://i.imgur.com/kVREx1Q.png",
+                "111 TV 🇮🇱",
+                "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                206L,
+                "https://i.imgur.com/t5AUthL.png",
+                "247 Box TV 🇺🇸",
+                "https://hls.247box.live/hls/stream.m3u8"
+        ));
+
+        channels.add(new Channel(
+                207L,
+                "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+                "312 Kino 🇷🇺",
+                "http://176.126.166.43:1935/live/312kino/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                208L,
+                "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+                "312 Music 🇷🇺",
+                "http://176.126.166.43:1935/live/312musik/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                209L,
+                "https://i.imgur.com/VTJqdoX.png",
+                "360° 🇮🇹",
+                "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                210L,
+                "https://i.imgur.com/YXDeX8q.png",
+                "360° News 🇷🇺",
+                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                211L,
+                "https://i.imgur.com/c2HLI3k.png",
+                "360 TV 🇹🇷",
+                "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+        ));
+
+        channels.add(new Channel(
+                212L,
+                "https://i.imgur.com/c2HLI3k.png",
+                "360 RFTV 🇨🇷",
+                "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8"
+        ));
+
+        channels.add(new Channel(
+                213L,
+                "https://i.imgur.com/agn47sQ.png",
+                "360 TV (Alt) 🇹🇷",
+                "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+        ));
+
+        channels.add(new Channel(
+                214L,
+                "https://i.imgur.com/c2HLI3k.png",
+                "504 TV 🇭🇳",
+                "https://mediacp.us:8081/504tvhn/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                215L,
+                "https://i.imgur.com/dWA9y2J.png",
+                "1001 Noites 🇧🇷",
+                "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                216L,
+                "",
+                "90210 🇺🇸",
+                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                217L,
+                "https://i.imgur.com/300c1ZH.png",
+                "Šport 🇸🇮",
+                "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                218L,
+                "https://i.imgur.com/300c1ZH.png",
+                ":24 🇸🇮",
+                "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                219L,
+                "https://files.catbox.moe/6rj9aw.jpg",
+                "@TV 🇮🇳",
+                "http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                220L,
+                "https://i.imgur.com/JZ1oTM2.png",
+                "A1 TV 🇳🇱",
+                "https://stream.a1mediagroep.nl/hls/a1tv.m3u8"
+        ));
+
+        channels.add(new Channel(
+                221L,
+                "https://i.imgur.com/Fykhzxh.jpg",
+                "A2i Music 🇸🇳",
+                "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
         ));
 
-        channels.add(new Channel(816L,
-                "https://i.imgur.com/4uTMnPb.png",
-                "BBC Persian (720p)",
-                "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
+        channels.add(new Channel(
+                222L,
+                "https://i.imgur.com/yq7ghPE.jpg",
+                "A2i Naija 🇳🇬",
+                "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8"
         ));
 
-        channels.add(new Channel(817L,
-                "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png",
-                "BBC RB 1 (1080p) [Geo-blocked]",
-                "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                223L,
+                "https://i.imgur.com/54WrwyN.jpg",
+                "A2i Religion 🇸🇳",
+                "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
         ));
 
-        channels.add(new Channel(818L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 2 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                224L,
+                "https://i.imgur.com/YlDFir7.jpg",
+                "A2i TV 🇸🇳",
+                "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
         ));
 
-        channels.add(new Channel(819L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 3 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                225L,
+                "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+                "A2 TV 🇹🇷",
+                "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8"
         ));
 
-        channels.add(new Channel(820L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 4 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                226L,
+                "https://i.imgur.com/RmFg8BN.png",
+                "A7TV 🇷🇴",
+                "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
         ));
 
-        channels.add(new Channel(821L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 5 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                227L,
+                "https://i.imgur.com/JgnjgvF.png",
+                "A12 TV 🇺🇸",
+                "https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8"
         ));
 
-        channels.add(new Channel(822L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 6 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                228L,
+                "https://i.imgur.com/LnXQkIU.png",
+                "A24 🇦🇹",
+                "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8"
         ));
 
-        channels.add(new Channel(823L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 7 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                229L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+                "A Punt 🇪🇸",
+                "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8"
         ));
 
-        channels.add(new Channel(824L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 8 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                230L,
+                "https://i.imgur.com/ZhkZzLf.png",
+                "A Spor 🇹🇷",
+                "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
         ));
 
-        channels.add(new Channel(825L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 9 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                231L,
+                "https://i.imgur.com/je5wQ3G.png",
+                "A Türk Izmir 🇹🇷",
+                "https://vdo.digitalbox.xyz:3807/stream/play.m3u8"
         ));
 
-        channels.add(new Channel(826L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 10 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                232L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+                "A&E East 🇺🇸",
+                "https://tvpass.org/live/AEEast/hd"
         ));
 
-        channels.add(new Channel(827L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 11 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                233L,
+                "https://i.imgur.com/ejRJqSI.png",
+                "A&R Canal Adventista 🇧🇷",
+                "http://51.222.9.192:3589/stream/play.m3u8"
         ));
 
-        channels.add(new Channel(828L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 12 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                234L,
+                "https://i.imgur.com/BtGK7iZ.png",
+                "A+ Guate 🇬🇹",
+                "https://ch2-tva.duin.dev/hls/stream.m3u8"
         ));
 
-        channels.add(new Channel(829L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 13 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                235L,
+                "https://i.imgur.com/yOW0vyP.png",
+                "A+ Ivoire 🇨🇮",
+                "http://69.64.57.208/atv/playlist.m3u8"
         ));
 
-        channels.add(new Channel(830L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 14 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                236L,
+                "https://i.imgur.com/dWElJll.png",
+                "AA Live 🇺🇸",
+                "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(831L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 15 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                237L,
+                "https://i.imgur.com/Spu4s89.png",
+                "AABC TV 🇺🇸",
+                "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
         ));
 
-        channels.add(new Channel(832L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 16 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                238L,
+                "https://i.imgur.com/WK5Cqap.png",
+                "Aaj Entertainment 🇵🇰",
+                "http://66.102.120.18:8000/play/a05b/index.m3u8"
         ));
 
-        channels.add(new Channel(833L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 17 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                241L,
+                "https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg",
+                "Aamar Bangla 🇧🇩",
+                "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8"
         ));
 
-        channels.add(new Channel(834L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 18 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                246L,
+                "https://i.imgur.com/LyWSMJS.png",
+                "Aastha Prime 1 🇮🇳",
+                "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
         ));
 
-        channels.add(new Channel(835L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 19 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                247L,
+                "https://i.imgur.com/YQK9ewf.png",
+                "Aastha Tamil 🇮🇳",
+                "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(836L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 20 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                248L,
+                "https://i.imgur.com/P0IIqZn.png",
+                "Aastha Telugu 🇮🇳",
+                "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(837L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 21 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                249L,
+                "https://i.imgur.com/LEVEhTH.png",
+                "Aathavan TV 🇮🇳",
+                "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
         ));
 
-        channels.add(new Channel(838L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 22 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                250L,
+                "https://i.postimg.cc/RZ2N611D/ab3.png",
+                "AB3 HD 🇫🇷",
+                "https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8"
         ));
 
-        channels.add(new Channel(839L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 23 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                251L,
+                "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png",
+                "Abadan TV 🇮🇷",
+                "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8"
         ));
 
-        channels.add(new Channel(840L,
-                "https://i.imgur.com/g2Aga13.png",
-                "BBC Red Button 24 (1080p) [Geo-blocked]",
-                "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd"
+        channels.add(new Channel(
+                252L,
+                "https://i.imgur.com/Nw2R7Dq.png",
+                "Abai TV 🇰🇿",
+                "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
         ));
 
-        channels.add(new Channel(841L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
-                "BBC Scotland (1080p)",
-                "http://92.114.85.72:8000/play/a0mf"
+        channels.add(new Channel(
+                253L,
+                "https://i.ibb.co/cCmjqtQ/logo-2.png",
+                "Abalfadhl TV 🇮🇷",
+                "https://t.northtelecom.org/ABALFADHLTV.m3u8"
         ));
 
-        channels.add(new Channel(842L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
-                "BBC Three",
-                "https://x.canlitvapp.com/u-bbc3/index.m3u8"
+        channels.add(new Channel(
+                254L,
+                "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+                "Abante TV 🇵🇭",
+                "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
         ));
 
-        channels.add(new Channel(843L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
-                "BBC Three HD (720p)",
-                "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
+        channels.add(new Channel(
+                255L,
+                "https://i.imgur.com/D6IHRrP.png",
+                "Abb Takk 🇵🇰",
+                "http://66.102.120.18:8000/play/a051/index.m3u8"
         ));
 
-        channels.add(new Channel(844L,
-                "https://i.imgur.com/CGXC5fp.png",
-                "BBC Three/CBBC (1080p)",
-                "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
+        channels.add(new Channel(
+                256L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC 🇰🇪",
+                "http://41.205.93.154/ABC/index.m3u8"
         ));
 
-        channels.add(new Channel(845L,
-                null,
-                "BBC Top Gear",
-                "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8"
+        channels.add(new Channel(
+                257L,
+                "https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png",
+                "ABC 2 Baltimore 🇺🇸",
+                "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8"
         ));
 
-        channels.add(new Channel(846L,
-                null,
-                "BBC Top Gear (1080p) [Geo-blocked]",
-                "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8"
+        channels.add(new Channel(
+                258L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC 5 🇺🇸",
+                "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(847L,
-                null,
-                "BBC Top Gear Finland (1080p)",
-                "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
+        channels.add(new Channel(
+                259L,
+                "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png",
+                "ABC 5 Boston 🇺🇸",
+                "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
         ));
 
-        channels.add(new Channel(848L,
-                null,
-                "BBC Top Gear France (1080p)",
-                "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8"
+        channels.add(new Channel(
+                260L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC 6 Indianapolis 🇺🇸",
+                "https://aegis-cloudfront-1.tubi.video/bc9ff1c7-4dc1-4e36-9ef0-25b28c595ada/playlist.m3u8"
         ));
 
-        channels.add(new Channel(849L,
-                null,
-                "BBC Top Gear Germany (1080p)",
-                "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8"
+        channels.add(new Channel(
+                261L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC 7 Albuquerque 🇺🇸",
+                "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8"
         ));
 
-        channels.add(new Channel(850L,
-                null,
-                "BBC Top Gear Italy (1080p)",
-                "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8"
+        channels.add(new Channel(
+                262L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
+                "ABC 7 Los Angeles 🇺🇸",
+                "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8"
         ));
 
-        channels.add(new Channel(851L,
-                null,
-                "BBC Travel",
-                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8"
+        channels.add(new Channel(
+                263L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png",
+                "ABC 13 Las Vegas 🇺🇸",
+                "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
         ));
 
-        channels.add(new Channel(852L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-                "BBC Two",
-                "https://x.canlitvapp.com/u-bbc2/index.m3u8"
+        channels.add(new Channel(
+                264L,
+                "https://i.imgur.com/43s7KXt.png",
+                "ABC 15 Phoenix 🇺🇸",
+                "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8"
         ));
 
-        channels.add(new Channel(853L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-                "BBC Two HD (1080p)",
-                "https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8"
+        channels.add(new Channel(
+                265L,
+                "https://i.imgur.com/qQ33TVM.png",
+                "ABC Australia 🇦🇺",
+                "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
         ));
 
-        channels.add(new Channel(854L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
-                "BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]",
-                "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd"
+        channels.add(new Channel(
+                266L,
+                "https://i.imgur.com/qQ33TVM.png",
+                "ABC Australia Vietnam 🇻🇳",
+                "https://hls.mskycdn.online/tv/abcaustralia/index.m3u8"
         ));
 
-        channels.add(new Channel(855L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
-                "BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]",
-                "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd"
+        channels.add(new Channel(
+                267L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC Chicago 🇺🇸",
+                "https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8"
         ));
 
-        channels.add(new Channel(856L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
-                "BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]",
-                "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd"
+        channels.add(new Channel(
+                268L,
+                "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png",
+                "ABC Entertains 🇦🇺",
+                "https://c.mjh.nz/abc-me.m3u8"
         ));
 
-        channels.add(new Channel(857L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
-                "BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]",
-                "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd"
+        channels.add(new Channel(
+                269L,
+                "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+                "ABC Kids 🇦🇺",
+                "https://c.mjh.nz/abc-kids.m3u8"
         ));
 
-        channels.add(new Channel(858L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
-                "BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]",
-                "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd"
+        channels.add(new Channel(
+                270L,
+                "https://i.imgur.com/BrW7gk8.png",
+                "ABC News 🇦🇺",
+                "https://c.mjh.nz/abc-news.m3u8"
         ));
 
-        channels.add(new Channel(861L,
-                "https://i.imgur.com/01UmXRe.png",
-                "BBS Buddhist Broadcasting (1080p)",
-                "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+        channels.add(new Channel(
+                271L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 🇺🇸",
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
         ));
 
-        channels.add(new Channel(862L,
-                "https://i.imgur.com/VN8FkmS.png",
-                "BCI 24 News (720p)",
-                "https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8"
+        channels.add(new Channel(
+                272L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 1 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(863L,
-                "https://i.imgur.com/ZKAnehs.png",
-                "BCN Gospel TV (1080p)",
-                "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+        channels.add(new Channel(
+                273L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 2 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(864L,
-                "https://i.imgur.com/VKv1Y6p.png",
-                "BCS StarCross TV (576p)",
-                "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8"
+        channels.add(new Channel(
+                274L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 3 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(865L,
-                "https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png",
-                "BD Televisión (720p)",
-                "https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8"
+        channels.add(new Channel(
+                275L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 4 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(866L,
-                "https://i.imgur.com/6ckHV6k.jpeg",
-                "BDC TV (576p)",
-                "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8"
+        channels.add(new Channel(
+                276L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 5 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(867L,
-                "https://i.imgur.com/ktasO33.png",
-                "BDNCOM (1080p)",
-                "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8"
+        channels.add(new Channel(
+                277L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 6 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(868L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png",
-                "Be Mad (1080p)",
-                "http://176.65.146.237:8401/play/a0aj/index.m3u8"
+        channels.add(new Channel(
+                278L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 7 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(869L,
-                "https://i.imgur.com/3EX0zax.png",
-                "BE TV (720p)",
-                "https://flv.intechmedia.net/live/ch58.m3u8"
+        channels.add(new Channel(
+                279L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 8 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(870L,
-                "https://i.postimg.cc/Bvkh8zt1/beattv.png",
-                "BE@TTV (1080p)",
-                "https://tv.beatfm.nl/live.m3u8"
+        channels.add(new Channel(
+                280L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 9 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(871L,
-                "https://i.imgur.com/EJjfSWi.png",
-                "Beach TV CSULB (160p) [Not 24/7]",
-                "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8"
+        channels.add(new Channel(
+                281L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+                "ABC News Live 10 🇺🇸",
+                "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8"
         ));
 
-        channels.add(new Channel(872L,
-                "https://i.imgur.com/weypM9C.png",
-                "Beach TV Florida & Alabama (720p)",
-                "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+        channels.add(new Channel(
+                282L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+                "ABC News New York 🇺🇸",
+                "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8"
         ));
 
-        channels.add(new Channel(873L,
-                "https://i.imgur.com/XhDBdff.png",
-                "Beach TV Key West & Florida Keys (720p)",
-                "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
+        channels.add(new Channel(
+                283L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC Tallahassee 🇺🇸",
+                "https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8"
         ));
 
-        channels.add(new Channel(874L,
-                "https://i.imgur.com/aLYz7Bv.png",
-                "Beach TV Myrtle Beach & The Grand Strand (720p)",
-                "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+        channels.add(new Channel(
+                284L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV ACT 🇦🇺",
+                "https://c.mjh.nz/abc-act.m3u8"
         ));
 
-        channels.add(new Channel(875L,
-                "https://i.imgur.com/HCQDvEe.png",
-                "Beach TV Panama City (720p)",
-                "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8"
+        channels.add(new Channel(
+                285L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV NSW 🇦🇺",
+                "https://c.mjh.nz/abc-nsw.m3u8"
         ));
 
-        channels.add(new Channel(876L,
-                null,
-                "Beani TV",
-                "https://streams2.sofast.tv/sofastplayout/f7973a17-2f10-483e-a4e1-c7cbaee7c3d9_0_HLS/master.m3u8"
+        channels.add(new Channel(
+                286L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV NT 🇦🇺",
+                "https://c.mjh.nz/abc-nt.m3u8"
         ));
 
-        channels.add(new Channel(877L,
-                "https://i.imgur.com/IKHFZDJ.png",
-                "Beano TV (720p)",
-                "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8"
+        channels.add(new Channel(
+                287L,
+                "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png",
+                "ABC TV Plus 🇦🇺",
+                "https://c.mjh.nz/abc-tv-plus.m3u8"
         ));
 
-        channels.add(new Channel(878L,
-                "https://i.imgur.com/zkNUO5p.png",
-                "Beats Radio (480p)",
-                "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+        channels.add(new Channel(
+                288L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV QLD 🇦🇺",
+                "https://c.mjh.nz/abc-qld.m3u8"
         ));
 
-        channels.add(new Channel(879L,
-                "https://i.imgur.com/hkwcBM9.png",
-                "Beautiful Life TV",
-                "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+        channels.add(new Channel(
+                289L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV SA 🇦🇺",
+                "https://c.mjh.nz/abc-sa.m3u8"
         ));
 
-        channels.add(new Channel(880L,
-                "https://i.imgur.com/3XOk1lP.jpeg",
-                "Beb TV (720p)",
-                "https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"
+        channels.add(new Channel(
+                290L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV TAS 🇦🇺",
+                "https://c.mjh.nz/abc-tas.m3u8"
         ));
 
-        channels.add(new Channel(881L,
-                "https://i.imgur.com/bTXIYic.png",
-                "Bebecito Bum y sus amigos",
-                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8"
+        channels.add(new Channel(
+                291L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV VIC 🇦🇺",
+                "https://c.mjh.nz/abc-vic.m3u8"
         ));
 
-        channels.add(new Channel(882L,
-                "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
-                "Bebeto TV (1080p)",
-                "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8"
+        channels.add(new Channel(
+                292L,
+                "https://i.imgur.com/DPVQSjM.png",
+                "ABC TV WA 🇦🇺",
+                "https://c.mjh.nz/abc-wa.m3u8"
         ));
 
-        channels.add(new Channel(883L,
-                null,
-                "Becker",
-                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8"
+        channels.add(new Channel(
+                293L,
+                "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+                "ABC WWAY 3 🇺🇸",
+                "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8"
         ));
 
-        channels.add(new Channel(884L,
-                "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
-                "Becker",
-                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8"
+        channels.add(new Channel(
+                294L,
+                "https://i.imgur.com/OqfBMGy.png",
+                "ABC-TV Paraguay 🇵🇾",
+                "https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd"
         ));
 
-        channels.add(new Channel(885L,
-                null,
-                "Beijing Traffic Radio TV [Geo-blocked]",
-                "http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8"
+        channels.add(new Channel(
+                295L,
+                "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+                "Abdulmajeed Abdullah 🇸🇦",
+                "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
         ));
 
-        channels.add(new Channel(886L,
-                null,
-                "Beijing Youth Radio [Geo-blocked]",
-                "http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8"
+        channels.add(new Channel(
+                296L,
+                "https://i.imgur.com/SLrX8Ef.png",
+                "ABN Afghanistan 🇦🇫",
+                "https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8"
         ));
 
-        channels.add(new Channel(887L,
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png",
-                "beIN Sports USA",
-                "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+        channels.add(new Channel(
+                297L,
+                "https://i.imgur.com/SLrX8Ef.png",
+                "ABN Africa 🇿🇦",
+                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
         ));
 
-        channels.add(new Channel(888L,
-                "https://i.imgur.com/uJosqHh.png",
-                "BeIN SPORTS XTRA (1080p) [Geo-blocked]",
-                "https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8"
+        channels.add(new Channel(
+                298L,
+                "https://i.imgur.com/gcoiZJ3.png",
+                "ABN Andhra Jyoti 🇮🇳",
+                "https://cdn-1.pishow.tv/live/407/master.m3u8"
         ));
 
-        channels.add(new Channel(889L,
-                "https://i.imgur.com/V562tpO.png",
-                "BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]",
-                "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8"
+        channels.add(new Channel(
+                299L,
+                "https://i.imgur.com/NCqZdaL.png",
+                "ABN Bible Movies 🇺🇸",
+                "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
         ));
 
-        channels.add(new Channel(890L,
-                "https://i.imgur.com/s8PfUQy.png",
-                "BeitolAbbas TV Channel (720p)",
-                "https://live.beitolabbas.tv/live/beitolabbastv.m3u8"
+        channels.add(new Channel(
+                300L,
+                "https://i.imgur.com/zagVLQH.png",
+                "ABN China 🇨🇳",
+                "https://mediaserver.abnvideos.com/streams/abnchina.m3u8"
         ));
 
-        channels.add(new Channel(891L,
-                "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
-                "BeJoy.kids (1080p)",
-                "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+        channels.add(new Channel(
+                301L,
+                "",
+                "ABN Freedom of Speech 🇺🇸",
+                "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8"
         ));
 
-        channels.add(new Channel(892L,
-                "https://i.imgur.com/m80uxdz.png",
-                "BEK TV News (720p)",
-                "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
+        channels.add(new Channel(
+                302L,
+                "",
+                "ABN I AM 🇺🇸",
+                "https://mediaserver.abnvideos.com/streams/i_am_.m3u8"
         ));
 
-        channels.add(new Channel(893L,
-                "https://i.imgur.com/1l3t5jd.png",
-                "BEK TV Sports West (720p)",
-                "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+        channels.add(new Channel(
+                303L,
+                "https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png",
+                "ABN News 🇵🇰",
+                "http://116.90.120.149:8000/play/a01r/index.m3u8"
         ));
 
-        channels.add(new Channel(894L,
-                "https://i.imgur.com/0DUprIW.png",
-                "Bel RTL (1080p)",
-                "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+        channels.add(new Channel(
+                304L,
+                "",
+                "ABN Son of God 🇺🇸",
+                "https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8"
         ));
 
-        channels.add(new Channel(895L,
-                "https://i.imgur.com/9UmR6cs.png",
-                "Bel'Afrika Media TV (1080p)",
-                "https://goccn.cloud/hls/belafrikatv/index.m3u8"
+        channels.add(new Channel(
+                305L,
+                "https://www.abn.co.kr/resources/images/logo.png",
+                "ABN TV 🇰🇷",
+                "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
         ));
 
-        channels.add(new Channel(896L,
-                null,
-                "Bella Italia (Radio) [Geo-blocked]",
-                "http://80.79.6.221:25461/smash/public/26"
+        channels.add(new Channel(
+                306L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ABS-CBN_logo_%282014%29.svg/512px-ABS-CBN_logo_%282014%29.svg.png",
+                "ABS-CBN News 🇵🇭",
+                "https://abscbn-od-hls.abs-cbn.com/live/od-abs-cbnnews/master.m3u8"
         ));
 
-        channels.add(new Channel(897L,
-                "https://i.imgur.com/VBKoLHk.png",
-                "Bellator MMA",
-                "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8"
+        channels.add(new Channel(
+                307L,
+                "https://i.imgur.com/2R3o2qQ.png",
+                "ACB TV 🇻🇳",
+                "https://acbtv.vn/live/acb/playlist.m3u8"
         ));
 
-        channels.add(new Channel(898L,
-                "https://i.imgur.com/XqQ3kCs.png",
-                "Bellavisión (1080p)",
-                "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
+        channels.add(new Channel(
+                308L,
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Access_TV_logo.svg/512px-Access_TV_logo.svg.png",
+                "Access TV 🇬🇧",
+                "https://live.access-tv.co.uk/AccessTV/index.m3u8"
         ));
 
-        channels.add(new Channel(899L,
-                "https://i.imgur.com/ifGQGJx.png",
-                "Bem TV (720p)",
-                "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8"
+        channels.add(new Channel(
+                309L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "ACE TV 🇳🇬",
+                "https://cdn.acedigitaltv.com/ace/playlist.m3u8"
         ));
 
-        channels.add(new Channel(900L,
-                "https://i.imgur.com/p3ON1oX.png",
-                "Benguturk TV (1080p)",
-                "http://185.234.111.229:8000/play/a05u"
+        channels.add(new Channel(
+                310L,
+                "https://i.imgur.com/2Xq7mT0.png",
+                "Action 24 🇬🇷",
+                "https://action24.siliconweb.com/action24/playlist.m3u8"
         ));
 
-        channels.add(new Channel(901L,
-                "https://i.imgur.com/7FXi05e.jpeg",
-                "Benie TV (720p)",
-                "https://voozmedia.fun/benietv/livestream/playlist.m3u8"
+        channels.add(new Channel(
+                311L,
+                "https://i.imgur.com/6F8a8zC.png",
+                "Action Hollywood Movies 🇺🇸",
+                "https://amg01761-faststudios-amg01761c2-rakutenus-1196.playouts.now.amagi.tv/playlist.m3u8"
         ));
 
-        channels.add(new Channel(902L,
-                "https://i.imgur.com/CYy4n0N.png",
-                "Bénin Web TV (720p)",
-                "https://stream.beninwebtv.bj/2/live/stream.m3u8"
+        channels.add(new Channel(
+                312L,
+                "https://i.imgur.com/7qQb6oJ.png",
+                "Action Sports TV 🇺🇸",
+                "https://d2hng5r56zpsbw.cloudfront.net/out/v1/ebef8e2e0d544a46a6e9a1d8b0d3dfe1/index.m3u8"
         ));
 
-        channels.add(new Channel(903L,
-                null,
-                "Beond TV (720p) [Geo-blocked]",
-                "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8"
+        channels.add(new Channel(
+                313L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "Adom TV 🇬🇭",
+                "https://cdn.mediavision.com/adomtv/playlist.m3u8"
         ));
 
-        channels.add(new Channel(904L,
-                "https://i.postimg.cc/wB2qghBP/berattv.png",
-                "Berat TV (720p) [Not 24/7]",
-                "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
+        channels.add(new Channel(
+                314L,
+                "https://i.imgur.com/qC0J3C0.png",
+                "AD Sports 1 🇦🇪",
+                "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(905L,
-                "https://i.imgur.com/3H3Ct9f.png",
-                "Berente TV (1080p)",
-                "https://stream.streaming4u.hu/BerenteTV/index.m3u8"
+        channels.add(new Channel(
+                315L,
+                "https://i.imgur.com/qC0J3C0.png",
+                "AD Sports 2 🇦🇪",
+                "https://admdn2.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(906L,
-                "https://i.imgur.com/Np3RaKv.png",
-                "Bergamo TV (1080p)",
-                "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8"
+        channels.add(new Channel(
+                316L,
+                "https://i.imgur.com/7vQ1XbY.png",
+                "Al Arabiya 🇸🇦",
+                "https://live.alarabiya.net/alarabiya/playlist.m3u8"
         ));
 
-        channels.add(new Channel(907L,
-                "https://i.imgur.com/1Xzxsgl.png",
-                "Berita RTM [Geo-blocked]",
-                "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5"
+        channels.add(new Channel(
+                317L,
+                "https://i.imgur.com/3YpZp3T.png",
+                "Al Jazeera English 🇶🇦",
+                "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
         ));
 
-        channels.add(new Channel(908L,
-                "https://i.postimg.cc/SRDWxRGs/13092012142252.jpg",
-                "BeritaSatu English",
-                "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8"
+        channels.add(new Channel(
+                318L,
+                "https://i.imgur.com/8x0wqkF.png",
+                "Al Jazeera Mubasher 🇶🇦",
+                "https://live-hls-web-ajm.getaj.net/AJM/01.m3u8"
         ));
 
-        channels.add(new Channel(909L,
-                "https://i.ibb.co/bRhnM6W/qti5aea.png",
-                "Beşiktaş Web TV (360p)",
-                "https://s01.vpis.io/besiktas/besiktas.m3u8"
+        channels.add(new Channel(
+                319L,
+                "https://i.imgur.com/8c8J4mS.png",
+                "Al Hadath 🇸🇦",
+                "https://live.alarabiya.net/alhadath/playlist.m3u8"
         ));
 
-        channels.add(new Channel(910L,
-                null,
-                "Best Action TV",
-                "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8"
+        channels.add(new Channel(
+                320L,
+                "https://i.imgur.com/2Rz5YQF.png",
+                "Al Mayadeen 🇱🇧",
+                "https://streaming.mayadeen.tv/hls/mayadeen/index.m3u8"
         ));
 
-        channels.add(new Channel(911L,
-                null,
-                "Best Drama TV",
-                "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8"
+        channels.add(new Channel(
+                321L,
+                "https://i.imgur.com/9V0EJ8x.png",
+                "Dubai One 🇦🇪",
+                "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(912L,
-                null,
-                "Best Thriller TV",
-                "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8"
+        channels.add(new Channel(
+                322L,
+                "https://i.imgur.com/Jp5o2gH.png",
+                "Dubai Sports 🇦🇪",
+                "https://dmitwlvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8"
         ));
 
-        channels.add(new Channel(913L,
-                "https://i.imgur.com/YJCcczD.png",
-                "BFM TV (576p)",
-                "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+        channels.add(new Channel(
+                323L,
+                "https://i.imgur.com/0ZKkWzE.png",
+                "KTV1 Kuwait 🇰🇼",
+                "https://kwmedia.hibridcdn.net/kwmedia/kwtv1/playlist.m3u8"
         ));
 
-        channels.add(new Channel(914L,
-                "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
-                "Bhakthi TV (720p) 🇮🇳",
-                "https://cdn-1.pishow.tv/live/397/master.m3u8"
+        channels.add(new Channel(
+                324L,
+                "https://i.imgur.com/9ZkY7Cz.png",
+                "Press TV 🇮🇷",
+                "https://live.presstv.ir/hls/presstv.m3u8"
         ));
 
-        channels.add(new Channel(915L,
-                "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_24/images/LOGO_HD/image.png",
-                "Bharat24 (1080p) 🇮🇳",
-                "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
+        channels.add(new Channel(
+                325L,
+                "https://i.imgur.com/5Vq9RzE.png",
+                "RT Arabic 🇷🇺",
+                "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
         ));
 
-        channels.add(new Channel(916L,
-                "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png",
-                "Bharat Express (480p) 🇮🇳",
-                "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
+        channels.add(new Channel(
+                326L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Channels TV 🇳🇬",
+                "https://channelstv.cdn.mangomolo.com/channelstv/channelslive/playlist.m3u8"
         ));
 
-        channels.add(new Channel(917L,
-                "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
-                "Bhojpuri Cinema (720p) 🇮🇳",
-                "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
+        channels.add(new Channel(
+                327L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "NTA International 🇳🇬",
+                "https://nta.ng/live/ntaintl/playlist.m3u8"
         ));
 
-        channels.add(new Channel(918L,
-                "https://i.imgur.com/01bZ5rw.png",
-                "BHRT (720p) [Geo-blocked]",
-                "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
+        channels.add(new Channel(
+                328L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "TVC News 🇳🇬",
+                "https://tvcnews.cdn.mangomolo.com/tvcnews/tvcnews/playlist.m3u8"
         ));
 
-        channels.add(new Channel(919L,
-                "https://i.imgur.com/LEwlEEE.png",
-                "BHT 1 (720p)",
-                "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8"
+        channels.add(new Channel(
+                329L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Africanews English 🇫🇷",
+                "https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8"
         ));
+
+        channels.add(new Channel(
+                330L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Africanews French 🇫🇷",
+                "https://rakuten-africanews-2-eu.rakuten.wurl.tv/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                331L,
+                "https://i.imgur.com/qC0J3C0.png",
+                "SABC News 🇿🇦",
+                "https://sabconemandla.akamaized.net/hls/live/2030273/sabcnews/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                332L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "eNCA 🇿🇦",
+                "https://1-abcnews.akamaized.net/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                333L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "TV3 Ghana 🇬🇭",
+                "https://tv3gh.cdn.mangomolo.com/tv3gh/tv3gh/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                334L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "RTI 1 🇨🇮",
+                "https://rti-live.akamaized.net/hls/live/2038454/rti1/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                335L,
+                "https://i.imgur.com/9H2E7FQ.png",
+                "ORTM 🇲🇱",
+                "https://ortm.live/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                336L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "TeleSUR 🇻🇪",
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                337L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Canal 26 🇦🇷",
+                "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                338L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Canal 13 Chile 🇨🇱",
+                "https://unlimited1-us.dps.live/13/13.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                339L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "TV Pública 🇦🇷",
+                "https://tvpublica-live-edge01.telecentro.net.ar/live/smil:tvp.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                340L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Red Uno 🇧🇴",
+                "https://live.reduno.com.bo/reduno/reduno/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                341L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Unitel 🇧🇴",
+                "https://live.unitel.bo/unitel/unitel/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                342L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "TVN Chile 🇨🇱",
+                "https://unlimited1-us.dps.live/tvn/tvn.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                343L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "RTP Internacional 🇵🇹",
+                "https://streaming-live.rtp.pt/liverepeater/smil:rtpinternacional.smil/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                344L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "KBS World 🇰🇷",
+                "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                345L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "NHK World Japan 🇯🇵",
+                "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                346L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "France 24 English 🇫🇷",
+                "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
+        ));
+
+        channels.add(new Channel(
+                347L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "France 24 Français 🇫🇷",
+                "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8"
+        ));
+
+        channels.add(new Channel(
+                348L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "DW English 🇩🇪",
+                "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                349L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "DW Deutsch 🇩🇪",
+                "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124538/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                350L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "CNA Asia 🇸🇬",
+                "https://d2e1asnsl7br7b.cloudfront.net/7782fbc9-5f27-4f24-bb02-2b7c54d2a7c5/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                351L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "TRT World 🇹🇷",
+                "https://tv-trtworld.live.trt.com.tr/master.m3u8"
+        ));
+
+        channels.add(new Channel(
+                352L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "RT News 🇷🇺",
+                "https://rt-news.rttv.com/live/rtnews/playlist.m3u8"
+        ));
+//YEH NUMBER DEKH LENA
+        channels.add(new Channel(
+                10113L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "CGTN English 🇨🇳",
+                "https://live.cgtn.com/1000/prog_index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                10112L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "Bloomberg Global 🇺🇸",
+                "https://bloomberg.com/media-manifest/streams/us.m3u8"
+        ));
+
+        channels.add(new Channel(
+                10111L,
+                "https://i.imgur.com/4aZkY8x.png",
+                "NASA TV 🇺🇸",
+                "https://ntv1-us-edges.nginx.belive.com/live/nasatv/index.m3u8"
+        ));
+//YAHA TAK
+
+        channels.add(new Channel(
+                354L,
+                "https://i.imgur.com/232ndRK.png",
+                "Afrobeats (1080p) 🇳🇬 Nigeria",
+                "https://stream.ecable.tv/afrobeats/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                355L,
+                "https://i.imgur.com/yQzXErU.png",
+                "Afro Magic Channel 🇳🇬 Nigeria",
+                "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                356L,
+                "https://i.imgur.com/aESdqiB.png",
+                "Afriwood Blockbuster (720p) 🇿🇦 South Africa",
+                "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                357L,
+                "https://i.imgur.com/9NFg3xp.png",
+                "Afriwood Series (720p) 🇿🇦 South Africa",
+                "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                358L,
+                "https://africa24tv.com/wp-content/uploads/2021/09/logo.png",
+                "Africa 24 (1080p) 🇫🇷 France",
+                "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+        ));
+
+        channels.add(new Channel(
+                359L,
+                "https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png",
+                "Africa 24 English (1080p) 🇫🇷 France",
+                "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
+        ));
+
+        channels.add(new Channel(
+                360L,
+                "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png",
+                "Africa 24 Sport (1080p) 🇫🇷 France",
+                "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+        ));
+
+        channels.add(new Channel(
+                361L,
+                "https://i.imgur.com/GXa37c7.png",
+                "Africa TV 2 (720p) 🇸🇦 Saudi Arabia",
+                "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                362L,
+                "https://i.imgur.com/iQE57Z2.png",
+                "Africable TV (360p) 🇲🇱 Mali",
+                "http://69.64.57.208/africable/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                363L,
+                "https://i.imgur.com/5UxU4zc.png",
+                "Africanews English 🇫🇷 France",
+                "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8"
+        ));
+
+        channels.add(new Channel(
+                364L,
+                "https://i.imgur.com/5UxU4zc.png",
+                "Africanews French 🇫🇷 France",
+                "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
+        ));
+
+        channels.add(new Channel(
+                365L,
+                "https://i.imgur.com/WIaRpiS.png",
+                "Afrique54 TV (720p) 🇨🇬 Congo",
+                "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(
+                366L,
+                "https://i.imgur.com/jvnkrEF.png",
+                "AfroLandTV (1080p) 🇺🇸 United States",
+                "https://alt-al.otteravision.com/alt/al/al.m3u8"
+        ));
+
+        channels.add(new Channel(
+                367L,
+                "https://i.imgur.com/fWlLvRA.png",
+                "Afroturk TV (1080p) 🇹🇷 Turkey",
+                "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
+        ));
+
+        channels.add(new Channel(368L, "https://i.imgur.com/GXa37c7.png", "Africa TV 2 (720p) 🇸🇦 Saudi Arabia", "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"));
+        channels.add(new Channel(369L, "https://i.imgur.com/iQE57Z2.png", "Africable TV (360p) 🇲🇱 Mali", "http://69.64.57.208/africable/playlist.m3u8"));
+        channels.add(new Channel(370L, "https://i.imgur.com/5UxU4zc.png", "Africanews English 🇫🇷 France", "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8"));
+        channels.add(new Channel(371L, "https://i.imgur.com/5UxU4zc.png", "Africanews French 🇫🇷 France", "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"));
+        channels.add(new Channel(372L, "https://i.imgur.com/WIaRpiS.png", "Afrique54 TV (720p) 🇨🇬 Congo", "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8"));
+        channels.add(new Channel(373L, "https://i.imgur.com/jvnkrEF.png", "AfroLandTV (1080p) 🇺🇸 United States", "https://alt-al.otteravision.com/alt/al/al.m3u8"));
+        channels.add(new Channel(374L, "https://i.imgur.com/fWlLvRA.png", "Afroturk TV (1080p) 🇹🇷 Turkey", "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"));
+        channels.add(new Channel(375L, "https://i.imgur.com/232ndRK.png", "Afrobeats (1080p) 🇳🇬 Nigeria", "https://stream.ecable.tv/afrobeats/index.m3u8"));
+        channels.add(new Channel(376L, "https://i.imgur.com/yQzXErU.png", "Afro Magic Channel 🇳🇬 Nigeria", "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"));
+        channels.add(new Channel(377L, "https://i.imgur.com/aESdqiB.png", "Afriwood Blockbuster (720p) 🇿🇦 South Africa", "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"));
+        channels.add(new Channel(378L, "https://i.imgur.com/9NFg3xp.png", "Afriwood Series (720p) 🇿🇦 South Africa", "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"));
+
+
+        channels.add(new Channel(380L, "https://africa24tv.com/wp-content/uploads/2021/09/logo.png", "Africa 24 (1080p) 🇫🇷 France", "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"));
+        channels.add(new Channel(381L, "https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png", "Africa 24 English (1080p) 🇫🇷 France", "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"));
+        channels.add(new Channel(382L, "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png", "Africa 24 Sport (1080p) 🇫🇷 France", "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"));
+        channels.add(new Channel(383L, "https://i.imgur.com/GXa37c7.png", "Africa TV 2 (720p) 🇸🇦 Saudi Arabia", "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"));
+        channels.add(new Channel(384L, "https://i.imgur.com/iQE57Z2.png", "Africable TV (360p) 🇲🇱 Mali", "http://69.64.57.208/africable/playlist.m3u8"));
+        channels.add(new Channel(385L, "https://i.imgur.com/5UxU4zc.png", "Africanews English 🇫🇷 France", "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8"));
+        channels.add(new Channel(386L, "https://i.imgur.com/5UxU4zc.png", "Africanews French 🇫🇷 France", "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"));
+        channels.add(new Channel(387L, "https://i.imgur.com/WIaRpiS.png", "Afrique54 TV (720p) 🇨🇬 Congo", "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8"));
+        channels.add(new Channel(388L, "https://i.imgur.com/232ndRK.png", "Afrobeats (1080p) 🇳🇬 Nigeria", "https://stream.ecable.tv/afrobeats/index.m3u8"));
+        channels.add(new Channel(389L, "https://i.imgur.com/yQzXErU.png", "Afro Magic Channel 🇳🇬 Nigeria", "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"));
+
+        channels.add(new Channel(390L, "https://i.imgur.com/jvnkrEF.png", "AfroLandTV (1080p) 🇺🇸 United States", "https://alt-al.otteravision.com/alt/al/al.m3u8"));
+        channels.add(new Channel(391L, "https://i.imgur.com/fWlLvRA.png", "Afroturk TV (1080p) 🇹🇷 Turkey", "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"));
+        channels.add(new Channel(392L, "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png", "Aftab 🇮🇷 Iran", "https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8"));
+        channels.add(new Channel(393L, "https://i.imgur.com/TOB9vmW.png", "AFV (720p) 🇺🇸 United States", "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8"));
+        channels.add(new Channel(394L, "https://i.imgur.com/DsGmrnc.png", "Agape TV (720p) 🇺🇸 United States", "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8"));
+        channels.add(new Channel(395L, "https://i.imgur.com/o6HSfNg.png", "Aghani Aghani TV (1080p) 🇱🇧 Lebanon", "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8"));
+        channels.add(new Channel(396L, "https://i.imgur.com/8ariztD.png", "Aghapy Kids (1080p) 🇪🇬 Egypt", "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"));
+        channels.add(new Channel(397L, "https://i.postimg.cc/xdCV2Bbr/aghapytv.png", "Aghapy TV (1080p) 🇪🇬 Egypt", "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"));
+        channels.add(new Channel(398L, "https://i.imgur.com/tPMNDtD.png", "Agro TV (480p) 🇧🇬 Bulgaria", "https://restr2.bgtv.bg/agro/hls/agro.m3u8"));
+        channels.add(new Channel(399L, "https://i.imgur.com/aNkP7Zd.png", "AgroBrasil TV (720p) 🇧🇷 Brazil", "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8"));
+        channels.add(new Channel(400L, "https://i.imgur.com/frd60hR.png", "Agrotendencia TV (1080p) 🇲🇽 Mexico", "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"));
 
+        channels.add(new Channel(401L, "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg", "Aguacate TV (1080p) 🇩🇴 Dominican Republic", "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"));
+        channels.add(new Channel(402L, "https://i.imgur.com/lNGJGjy.png", "Ahlulbayt TV (1080p) 🇮🇷 Iran", "https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8"));
+        channels.add(new Channel(403L, "https://i.imgur.com/dyJyuXc.png", "Ahora TV (720p) 🇨🇱 Chile", "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"));
+        channels.add(new Channel(404L, "https://i.imgur.com/nJbAbfW.png", "Ahupa Visual Radio 🇷🇼 Rwanda", "https://tv.btnrwanda.com:3349/live/ahupalive.m3u8"));
+        channels.add(new Channel(405L, "https://i.imgur.com/svPXoAP.png", "Aik News 🇵🇰 Pakistan", "https://video.primexsports.com/pnn/live/playlist.m3u8"));
+        channels.add(new Channel(406L, "https://i.imgur.com/DBvm7YS.png", "AION TV (1080p) 🇬🇭 Ghana", "https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8"));
+        channels.add(new Channel(407L, "https://i.imgur.com/60vSWW0.png", "Aire de Santa Fe (1080p) 🇦🇷 Argentina", "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8"));
+        channels.add(new Channel(408L, "https://i.imgur.com/n9sZsWv.jpeg", "AIT National (576p) 🇳🇬 Nigeria", "https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8"));
+        channels.add(new Channel(409L, "https://i.imgur.com/hVNIwgE.png", "Ajman TV (1080p) 🇦🇪 United Arab Emirates", "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"));
+        channels.add(new Channel(410L, "https://i.imgur.com/i6Y7beR.jpg", "Ajyal TV (720p) 🇵🇸 Palestine", "http://htvmada.mada.ps:8888/ajyal/index.m3u8"));
 
-        // yahan PART-2 ka poora data  tak ho chuka ha
+        channels.add(new Channel(411L, "https://i.imgur.com/K81vNbk.png", "Akaal Channel (396p) 🇮🇳 India", "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"));
+        channels.add(new Channel(412L, "https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel53-147x150-square.png", "Akaku 53 (Hawaii) (1080p) 🇺🇸 United States", "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8"));
+        channels.add(new Channel(413L, "https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel54-147x150-square.png", "Akaku 54 (Hawaii) (1080p) 🇺🇸 United States", "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8"));
+        channels.add(new Channel(414L, "https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel55-147x150-square.png", "Akaku 55 (Hawaii) (1080p) 🇺🇸 United States", "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8"));
+        channels.add(new Channel(415L, "https://i.imgur.com/XRTfoSp.png", "AKC TV (1080p) 🇺🇸 United States", "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"));
+        channels.add(new Channel(416L, "https://i.imgur.com/66avgdk.png", "AKC TV Meet The Breeds 🇺🇸 United States", "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8"));
+        channels.add(new Channel(417L, "https://i.imgur.com/2nzRS60.png", "AKC TV Puppies 24/7 🇺🇸 United States", "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8"));
+        channels.add(new Channel(418L, "https://i.imgur.com/oGto929.png", "Akit TV (720p) 🇹🇷 Turkey", "https://akittv-live.ercdn.net/akittv/akittv.m3u8"));
+        channels.add(new Channel(419L, "https://i.postimg.cc/3w6VHNTp/aksutv.png", "Aksu TV (720p) 🇹🇷 Turkey", "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"));
+        channels.add(new Channel(420L, "https://i.imgur.com/DUY5WXf.png", "AKTV (720p) 🇺🇸 United States", "https://e.siar.us/live/aktv.m3u8"));
 
 
         return channels;
